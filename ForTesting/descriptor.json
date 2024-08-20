@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "77a767f9-8739-4085-948f-7ac110e5c9b6",
+    "Name": "ForTesting",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1724148938000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/ForTesting.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}
