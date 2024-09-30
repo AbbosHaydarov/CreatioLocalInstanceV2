@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f87782e3-014a-4da9-a28f-751ffceb9cad",
+    "Name": "UsrExampleVisa",
+    "ModifiedOnUtc": "\/Date(1724393407000)\/",
+    "Parent": {
+      "UId": "5fa90d0d-64eb-4f52-8d3d-c51fa6443b66",
+      "Name": "BaseVisa"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Approvals in section Example"
+  }
+}

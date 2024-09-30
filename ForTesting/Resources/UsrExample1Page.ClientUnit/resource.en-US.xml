@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Example&quot;" />
+			<Item Name="LocalizableStrings.AdditionalTabCation.Value" Value="Additional Tab Cation" />
+			<Item Name="LocalizableStrings.InvalidLastNameMessage.Value" Value="Enter required &quot;Last name&quot; field" />
+			<Item Name="LocalizableStrings.InvalidMiddleNameMessage.Value" Value="Enter required &quot;Middle name&quot; field" />
+			<Item Name="LocalizableStrings.InvalidNameMessage.Value" Value="Enter required &quot;Name&quot; field" />
+			<Item Name="LocalizableStrings.InvalidPhoneNumberMessage.Value" Value="Fill required field" />
+			<Item Name="LocalizableStrings.MainTabCaption.Value" Value="Main Tab Caption" />
+			<Item Name="LocalizableStrings.Tab68b5b8f6TabLabelGroup96b8b483GroupCaption.Value" Value="Additional Info" />
+			<Item Name="LocalizableStrings.Tab68b5b8f6TabLabelTabCaption.Value" Value="AdditionalTab" />
+			<Item Name="LocalizableStrings.Tabbfc229c0TabLabelGroup72cd9c7dGroupCaption.Value" Value="General Info" />
+			<Item Name="LocalizableStrings.Tabbfc229c0TabLabelTabCaption.Value" Value="MainTab" />
+		</Items>
+	</Group>
+</Resources>

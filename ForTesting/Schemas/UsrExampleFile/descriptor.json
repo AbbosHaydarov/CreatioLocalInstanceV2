@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "7a50fbb0-3ff7-4c31-9746-015ea35e591b",
+    "Name": "UsrExampleFile",
+    "ModifiedOnUtc": "\/Date(1724159107000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Example attachment"
+  }
+}

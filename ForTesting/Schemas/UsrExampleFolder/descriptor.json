@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "08378e90-bf51-4ee5-9631-6bda2bbf123b",
+    "Name": "UsrExampleFolder",
+    "ModifiedOnUtc": "\/Date(1724159113000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Example folder"
+  }
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Example" />
+			<Item Name="Columns.UsrEmail.Caption" Value="Email" />
+			<Item Name="Columns.UsrLastname.Caption" Value="Lastname" />
+			<Item Name="Columns.UsrMiddlename.Caption" Value="Middlename" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Notes" />
+			<Item Name="Columns.UsrPhoneNumber.Caption" Value="PhoneNumber" />
+			<Item Name="Columns.UsrPinflContainer.Caption" Value="Pinfl" />
+			<Item Name="Columns.UsrType.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,3 +1,12 @@
 <Project>
-	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''"></ItemGroup>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/ForTesting/Schemas/UsrExample/UsrExample.cs" Condition="Exists('$(PkgPath)/ForTesting/Schemas/UsrExample/UsrExample.cs')" />
+		<Compile Include="$(PkgPath)/ForTesting/Schemas/UsrExampleFile/UsrExampleFile.cs" Condition="Exists('$(PkgPath)/ForTesting/Schemas/UsrExampleFile/UsrExampleFile.cs')" />
+		<Compile Include="$(PkgPath)/ForTesting/Schemas/UsrExampleFolder/UsrExampleFolder.cs" Condition="Exists('$(PkgPath)/ForTesting/Schemas/UsrExampleFolder/UsrExampleFolder.cs')" />
+		<Compile Include="$(PkgPath)/ForTesting/Schemas/UsrExampleInFolder/UsrExampleInFolder.cs" Condition="Exists('$(PkgPath)/ForTesting/Schemas/UsrExampleInFolder/UsrExampleInFolder.cs')" />
+		<Compile Include="$(PkgPath)/ForTesting/Schemas/UsrExampleInTag/UsrExampleInTag.cs" Condition="Exists('$(PkgPath)/ForTesting/Schemas/UsrExampleInTag/UsrExampleInTag.cs')" />
+		<Compile Include="$(PkgPath)/ForTesting/Schemas/UsrExampleTag/UsrExampleTag.cs" Condition="Exists('$(PkgPath)/ForTesting/Schemas/UsrExampleTag/UsrExampleTag.cs')" />
+		<Compile Include="$(PkgPath)/ForTesting/Schemas/UsrExampleType1/UsrExampleType1.cs" Condition="Exists('$(PkgPath)/ForTesting/Schemas/UsrExampleType1/UsrExampleType1.cs')" />
+		<Compile Include="$(PkgPath)/ForTesting/Schemas/UsrExampleVisa/UsrExampleVisa.cs" Condition="Exists('$(PkgPath)/ForTesting/Schemas/UsrExampleVisa/UsrExampleVisa.cs')" />
+	</ItemGroup>
 </Project>
